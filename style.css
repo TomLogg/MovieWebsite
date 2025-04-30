@@ -14,9 +14,13 @@
   --text-color: #020307;
   --bg-color: #fff;
 }
+
 body {
   background: var(--text-color);
   color: var(--bg-color);
+}
+section {
+  padding: 4.5rem 0 1.5rem;
 }
 header {
   position: fixed;
